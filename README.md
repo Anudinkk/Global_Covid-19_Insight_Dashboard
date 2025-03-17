@@ -4,6 +4,10 @@
 This **Power BI dashboard** provides an in-depth analysis of **COVID-19 trends**, helping to understand the spread, impact, and recovery patterns across different regions. The dashboard highlights key metrics such as **total confirmed cases, recoveries, deaths, and case fatality rates (CFR%)** using interactive visuals.  
 
 ---
+![Image](https://github.com/user-attachments/assets/f4b3d0c9-a82e-4ad8-9f9a-36454213603a)
+
+![Image](https://github.com/user-attachments/assets/5043b896-1a2e-4c60-8172-9714d10a1081)
+---
 
 ## 🔑 **Key Insights**  
 
